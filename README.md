@@ -16,3 +16,6 @@ This program merges multiple sheets in an excel file into a single sheet in a ne
 
 <b>Installation:</b><br />
 pip install openpyxl
+
+<b>Note:</b><br />
+This is a starter project with a potential for improvement and growth.
